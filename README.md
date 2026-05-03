@@ -34,8 +34,4 @@
 
 
 ## Notes
-- The raw dataset is stored in `data/raw/`.
-- Processed files are stored in `data/processed/`.
-- Figures are stored in `outputs/figures/`.
-- Tables are stored in `outputs/tables/`.
-- Summary text files are stored in `outputs/summary/`.
+
