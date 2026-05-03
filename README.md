@@ -7,12 +7,12 @@
 
 
 ## Selected Variables
-
-
-## Benchmark Values
 Variables:
 - Group variable: WhatIsYourSex
 - Response variable: CurrentAlcoholUse
+
+## Benchmark Values
+
 
 ## Short Project Questions
 
