@@ -1,10 +1,10 @@
-    # Project Cycle 3: 
+    # Project Cycle 3: two-sample inference
 ## Group Information
 - **Group Number:** [13]
 - **Member Names:** [113370219謝紫旋,]
 
 ## Dataset Used
-
+YRBS_2007.csv
 
 ## Selected Variables
 Variables:
