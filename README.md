@@ -1,5 +1,4 @@
-    # Project Cycle 2: Confidence Intervals and One-Sample Inference
-
+    # Project Cycle 3: 
 ## Group Information
 - **Group Number:** [13]
 - **Member Names:** [113370219謝紫旋,]
@@ -11,11 +10,14 @@
 
 
 ## Benchmark Values
+Variables:
+• Group variable: WhatIsYourSex
+• Response variable: CurrentAlcoholUse
 
 ## Short Project Questions
 
 ### Proportion Analysis
-
+ Gender and Current Alcohol Use
 
 ### Mean Analysis
 
