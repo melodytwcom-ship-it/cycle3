@@ -3,13 +3,10 @@ from pathlib import Path
 
 # 取得目前 py 檔所在資料夾
 current_dir = Path(__file__).resolve().parent
-
 # 回到 project-cycle-3-main
 project_path = current_dir.parent
-
 # CSV 路徑
 raw_path = project_path / "data" / "raw" / "YRBS_2007.csv"
-
 # 輸出路徑
 processed_path = (
     project_path
@@ -21,7 +18,6 @@ processed_path = (
 # Debug 用
 print("目前專案路徑：")
 print(project_path)
-
 print("\nCSV 路徑：")
 print(raw_path)
 
@@ -33,10 +29,12 @@ df_selected = df[
     ["WhatIsYourSex", "CurrentAlcoholUse"]
 ]
 
-# 用平均值填補缺失值
-df_cleaned = df_selected.fillna(
-    df_selected.mean(numeric_only=True)
-)
+# 刪除任一欄有缺失值的列
+df_cleaned = df_selected.dropna()
+
+print(f"\n清理前筆數：{len(df_selected)}")
+print(f"清理後筆數：{len(df_cleaned)}")
+print(f"刪除筆數：{len(df_selected) - len(df_cleaned)}")
 
 # 建立 processed 資料夾
 processed_path.parent.mkdir(
