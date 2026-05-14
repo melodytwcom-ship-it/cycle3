@@ -1,7 +1,7 @@
     # Project Cycle 3: two-sample inference
 ## Group Information
 - **Group Number:** [13]
-- **Member Names:** [113370219謝紫旋,]
+- **Member Names:** [113370219謝紫旋,113370232周以心]
 
 ## Dataset Used
 YRBS_2007.csv
