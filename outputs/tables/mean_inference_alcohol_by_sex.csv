@@ -1,0 +1,3 @@
+Group,n,Mean,Std,T_statistic,P_value,CI_lower,CI_upper
+Male,6425,1.8139,1.1637,-7.9389,0.0,-0.2279,-0.1377
+Female,6234,1.9966,1.4109,,,,
