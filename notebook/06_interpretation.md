@@ -1,10 +1,5 @@
 # Summary Interpretation
 
-## Project Cycle 3 — Gender and Current Alcohol Use
-**Group 13 | 113370219 謝紫旋, 113370232 周以心**
-
----
-
 ## Overview
 
 This project investigates whether gender is associated with alcohol use among high school students using data from the Youth Risk Behavior Surveillance System (YRBS) 2007. Two complementary analyses were conducted on the same variables (`WhatIsYourSex` and `CurrentAlcoholUse`): a proportion analysis examining whether students currently drink, and a mean analysis examining how frequently they drink.
