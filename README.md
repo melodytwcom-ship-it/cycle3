@@ -1,5 +1,6 @@
 # Project Cycle 3: Two-Sample Inference
-#project Repository
+#project Repository:
+https://github.com/melodytwcom-ship-it/project-cycle-3/blob/main/README.md
 
 #Presentation video:
 https://drive.google.com/file/d/1hmlH77GjDpxa5hvt1Zf1vQ10skXWISBE/view?usp=drivesdk
